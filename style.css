@@ -219,6 +219,10 @@ footer{
     display:flex;
     gap:20px;
 }
+footer .gauche #socials img{
+    width:32px;
+    height:32px;
+}
 footer .droite{
     margin-left:32px;
     display:flex;
