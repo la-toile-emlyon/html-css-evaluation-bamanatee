@@ -193,6 +193,11 @@ header{
     border-radius: 16px 10px;
     overflow: hidden;
 }
+#prestations article:hover{
+    transform:scale(1.06);
+    transition:0.3s ease-in-out;
+    cursor: pointer;
+}
 #prestations .services article:first-child .texte{
     display:flex;
     flex-direction:column;
